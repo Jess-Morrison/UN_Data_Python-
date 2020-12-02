@@ -1,4 +1,4 @@
-
+![image](https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/783549.jpg?itok=YS5oykYn)
 ## A guided exploration of UN data (Gross Domestic Product and Internet Usage)
 
 ##### In-class practice 1  
