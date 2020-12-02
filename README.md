@@ -1,4 +1,5 @@
-#### A guided exploration of UN data (Gross Domestic Product and Internet Usage)
+
+## A guided exploration of UN data (Gross Domestic Product and Internet Usage)
 
 ##### In-class practice 1  
 
@@ -60,5 +61,5 @@
 30.	Is there anything surprising or unusual in any of these plots? Searching on the internet, can you find any possible explanations for unusual findings?
 
 
-### Bonus exercise:
+### *Bonus exercise:*
 1.    Download another data set from the UN data (http://data.un.org/Explorer.aspx) to merge with your data and explore.
